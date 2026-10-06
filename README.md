@@ -3,6 +3,7 @@
 
 I am a passionate QA Automation Engineer with hands-on experience in building automation frameworks for **API**, **Mobile**, and **Web** testing.  
 My focus is on clean architecture, maintainable code, and real-world testing scenarios.
+
 🌐 **Portfolio:** https://IlyaQaTest.github.io
 
 ---
@@ -21,7 +22,8 @@ My focus is on clean architecture, maintainable code, and real-world testing sce
 ## 📂 Featured Projects
 
 ### 🔹 PhoneBook 2.0: End-to-End Test Framework
-Web UI, REST API, Android and database tests in one framework, with integration tests and smoke tests in GitHub Actions  
+Web UI, REST API, Android and database tests in one framework, 
+ with integration tests and smoke tests in GitHub Actions  
 👉 https://github.com/IlyaQaTest/PhoneBook2.0
 
 ### 🔹 PhoneBook API Testing  
@@ -51,6 +53,7 @@ Testing Trello REST API with Java + RestAssured
 ## 📫 Contact Me
 
 **LinkedIn:** https://www.linkedin.com/in/ilya-lapidus-5a1b43424
+
 **Email:** lapidusqa@gmail.com
 
 ---
