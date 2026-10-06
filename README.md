@@ -1,23 +1,28 @@
 # Hi, I'm Ilya Lapidus 👋  
-### QA Automation Engineer | Java | API | Mobile | Web Testing
+### Junior QA Automation Engineer | Java | API | Mobile | Web Testing
 
 I am a passionate QA Automation Engineer with hands-on experience in building automation frameworks for **API**, **Mobile**, and **Web** testing.  
 My focus is on clean architecture, maintainable code, and real-world testing scenarios.
+🌐 **Portfolio:** https://IlyaQaTest.github.io
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:** Java  
-**Testing:** RestAssured, TestNG, JUnit  
+**Languages:** Java, SQL 
+**Testing:** Selenium, RestAssured, TestNG, JUnit, Allure  
 **Mobile:** Appium, Android Studio  
 **Build Tools:** Gradle  
 **Version Control:** Git, GitHub  
-**Other:** JSON, Postman, CI/CD basics
+**Other:**  JSON, Postman, Swagger, MySQL, Jira, Docker, Jenkins, CI/CD basics
 
 ---
 
 ## 📂 Featured Projects
+
+### 🔹 PhoneBook 2.0: End-to-End Test Framework
+Web UI, REST API, Android and database tests in one framework, with integration tests and smoke tests in GitHub Actions  
+👉 https://github.com/IlyaQaTest/PhoneBook2.0
 
 ### 🔹 PhoneBook API Testing  
 REST API automation framework using Java + RestAssured  
@@ -45,7 +50,7 @@ Testing Trello REST API with Java + RestAssured
 
 ## 📫 Contact Me
 
-**LinkedIn:** https://www.linkedin.com/in/ilya-lapidus-391755407  
-**Email:** qa.auto.lapidus@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/ilya-lapidus-5a1b43424
+**Email:** lapidusqa@gmail.com
 
 ---
